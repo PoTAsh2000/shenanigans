@@ -39,6 +39,7 @@ namespace Tick_Tac_Toe
             this.Square6 = new System.Windows.Forms.Button();
             this.Square8 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+            this.ButtonReset = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // Square1
@@ -150,11 +151,22 @@ namespace Tick_Tac_Toe
             this.label1.TabIndex = 9;
             this.label1.Text = "Display team that won";
             // 
+            // ButtonReset
+            // 
+            this.ButtonReset.Location = new System.Drawing.Point(50, 366);
+            this.ButtonReset.Name = "ButtonReset";
+            this.ButtonReset.Size = new System.Drawing.Size(300, 25);
+            this.ButtonReset.TabIndex = 10;
+            this.ButtonReset.Text = "Reset";
+            this.ButtonReset.UseVisualStyleBackColor = true;
+            this.ButtonReset.Click += new System.EventHandler(this.ButtonReset_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(403, 403);
+            this.Controls.Add(this.ButtonReset);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.Square8);
             this.Controls.Add(this.Square6);
@@ -184,6 +196,7 @@ namespace Tick_Tac_Toe
         private System.Windows.Forms.Button Square6;
         private System.Windows.Forms.Button Square8;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button ButtonReset;
     }
 }
 

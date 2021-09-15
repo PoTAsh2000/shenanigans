@@ -7,11 +7,13 @@ namespace Tick_Tac_Toe
     public partial class Form1 : Form
     {
         public string move = "X";
+        Button[] allSquares = new Button[9];
 
         public Form1()
         {
             InitializeComponent();
             label1.Text = "";
+            allSquares = new Button[9] { Square1, Square2, Square3, Square4, Square5, Square6, Square7, Square8, Square9};
         }
 
         // If the last move placed was an X change the current move to O and vice versa
@@ -27,7 +29,7 @@ namespace Tick_Tac_Toe
             }
         }
 
-        private void checkWins ()
+        private void CheckWinOrDraw ()
         {
             // Create a list of button arrays. Each button array contains 3 buttons that are required to make a winning row, col, or diagnal.
             // For example btn Square1 btn Square2 btn Square3 are the first 3 buttons on the top row. If all of these are checked by one team it means that team has won 3 in a row
@@ -59,15 +61,28 @@ namespace Tick_Tac_Toe
                 if (checks == 3)
                 {
                     label1.Text = $"Team {move} won!";
-                    Square1.Enabled = false;
-                    Square2.Enabled = false;
-                    Square3.Enabled = false;
-                    Square4.Enabled = false;
-                    Square5.Enabled = false;
-                    Square6.Enabled = false;
-                    Square7.Enabled = false;
-                    Square8.Enabled = false;
-                    Square9.Enabled = false;
+                    foreach (Button square in allSquares)
+                    {
+                        square.Enabled = false;
+                    }
+                }
+            }
+
+            int squaresChecked = 0;
+            foreach (Button square in allSquares)
+            {
+                if (square.Text != "")
+                {
+                    squaresChecked += 1;
+                }
+            }
+            
+            if (squaresChecked == 9)
+            {
+                label1.Text = "Game is a draw";
+                foreach (Button square in allSquares)
+                {
+                    square.Enabled = false;
                 }
             }
         }
@@ -84,7 +99,7 @@ namespace Tick_Tac_Toe
             if (Square1.Text == "")
             {
                 Square1.Text = move;
-                checkWins();
+                CheckWinOrDraw();
                 TeamMove(move);
             }
         }
@@ -94,7 +109,7 @@ namespace Tick_Tac_Toe
             if (Square2.Text == "")
             {
                 Square2.Text = move;
-                checkWins();
+                CheckWinOrDraw();
                 TeamMove(move);
             }
         }
@@ -104,7 +119,7 @@ namespace Tick_Tac_Toe
             if (Square3.Text == "")
             {
                 Square3.Text = move;
-                checkWins();
+                CheckWinOrDraw();
                 TeamMove(move);
             }
         }
@@ -114,7 +129,7 @@ namespace Tick_Tac_Toe
             if (Square4.Text == "")
             {
                 Square4.Text = move;
-                checkWins();
+                CheckWinOrDraw();
                 TeamMove(move);
             }
         }
@@ -124,7 +139,7 @@ namespace Tick_Tac_Toe
             if (Square5.Text == "")
             {
                 Square5.Text = move;
-                checkWins();
+                CheckWinOrDraw();
                 TeamMove(move);
             }
         }
@@ -134,7 +149,7 @@ namespace Tick_Tac_Toe
             if (Square6.Text == "")
             {
                 Square6.Text = move;
-                checkWins();
+                CheckWinOrDraw();
                 TeamMove(move);
             }
         }
@@ -144,7 +159,7 @@ namespace Tick_Tac_Toe
             if (Square7.Text == "")
             {
                 Square7.Text = move;
-                checkWins();
+                CheckWinOrDraw();
                 TeamMove(move);
             }
         }
@@ -154,7 +169,7 @@ namespace Tick_Tac_Toe
             if (Square8.Text == "")
             {
                 Square8.Text = move;
-                checkWins();
+                CheckWinOrDraw();
                 TeamMove(move);
             }
         }
@@ -164,9 +179,22 @@ namespace Tick_Tac_Toe
             if (Square9.Text == "")
             {
                 Square9.Text = move;
-                checkWins();
+                CheckWinOrDraw();
                 TeamMove(move);
             }
+        }
+
+        // This function restarts the game
+        private void ButtonReset_Click(object sender, EventArgs e)
+        {
+            // Reset all squares to starting position
+            foreach (Button square in allSquares)
+            {
+                square.Text = "";
+                square.Enabled = true;
+            }
+            move = "X";
+            label1.Text = "";
         }
     }
 }
