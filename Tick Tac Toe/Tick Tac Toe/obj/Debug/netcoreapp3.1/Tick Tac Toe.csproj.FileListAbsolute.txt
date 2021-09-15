@@ -1,0 +1,16 @@
+C:\Users\bruhmas\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\bin\Debug\netcoreapp3.1\Tick Tac Toe.exe
+C:\Users\bruhmas\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\bin\Debug\netcoreapp3.1\Tick Tac Toe.deps.json
+C:\Users\bruhmas\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\bin\Debug\netcoreapp3.1\Tick Tac Toe.runtimeconfig.json
+C:\Users\bruhmas\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\bin\Debug\netcoreapp3.1\Tick Tac Toe.runtimeconfig.dev.json
+C:\Users\bruhmas\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\bin\Debug\netcoreapp3.1\Tick Tac Toe.dll
+C:\Users\bruhmas\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\bin\Debug\netcoreapp3.1\Tick Tac Toe.pdb
+C:\Users\bruhmas\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick Tac Toe.csproj.AssemblyReference.cache
+C:\Users\bruhmas\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick_Tac_Toe.Form1.resources
+C:\Users\bruhmas\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick Tac Toe.csproj.GenerateResource.cache
+C:\Users\bruhmas\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruhmas\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick Tac Toe.AssemblyInfoInputs.cache
+C:\Users\bruhmas\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick Tac Toe.AssemblyInfo.cs
+C:\Users\bruhmas\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\bruhmas\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick Tac Toe.dll
+C:\Users\bruhmas\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick Tac Toe.pdb
+C:\Users\bruhmas\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick Tac Toe.genruntimeconfig.cache
