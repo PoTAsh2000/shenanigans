@@ -1,0 +1,14 @@
+C:\Users\thare\source\repos\shenanigans\TwoEggProblem\TwoEggProblem\bin\Debug\netcoreapp3.1\TwoEggProblem.exe
+C:\Users\thare\source\repos\shenanigans\TwoEggProblem\TwoEggProblem\bin\Debug\netcoreapp3.1\TwoEggProblem.deps.json
+C:\Users\thare\source\repos\shenanigans\TwoEggProblem\TwoEggProblem\bin\Debug\netcoreapp3.1\TwoEggProblem.runtimeconfig.json
+C:\Users\thare\source\repos\shenanigans\TwoEggProblem\TwoEggProblem\bin\Debug\netcoreapp3.1\TwoEggProblem.runtimeconfig.dev.json
+C:\Users\thare\source\repos\shenanigans\TwoEggProblem\TwoEggProblem\bin\Debug\netcoreapp3.1\TwoEggProblem.dll
+C:\Users\thare\source\repos\shenanigans\TwoEggProblem\TwoEggProblem\bin\Debug\netcoreapp3.1\TwoEggProblem.pdb
+C:\Users\thare\source\repos\shenanigans\TwoEggProblem\TwoEggProblem\obj\Debug\netcoreapp3.1\TwoEggProblem.csproj.AssemblyReference.cache
+C:\Users\thare\source\repos\shenanigans\TwoEggProblem\TwoEggProblem\obj\Debug\netcoreapp3.1\TwoEggProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thare\source\repos\shenanigans\TwoEggProblem\TwoEggProblem\obj\Debug\netcoreapp3.1\TwoEggProblem.AssemblyInfoInputs.cache
+C:\Users\thare\source\repos\shenanigans\TwoEggProblem\TwoEggProblem\obj\Debug\netcoreapp3.1\TwoEggProblem.AssemblyInfo.cs
+C:\Users\thare\source\repos\shenanigans\TwoEggProblem\TwoEggProblem\obj\Debug\netcoreapp3.1\TwoEggProblem.csproj.CoreCompileInputs.cache
+C:\Users\thare\source\repos\shenanigans\TwoEggProblem\TwoEggProblem\obj\Debug\netcoreapp3.1\TwoEggProblem.dll
+C:\Users\thare\source\repos\shenanigans\TwoEggProblem\TwoEggProblem\obj\Debug\netcoreapp3.1\TwoEggProblem.pdb
+C:\Users\thare\source\repos\shenanigans\TwoEggProblem\TwoEggProblem\obj\Debug\netcoreapp3.1\TwoEggProblem.genruntimeconfig.cache

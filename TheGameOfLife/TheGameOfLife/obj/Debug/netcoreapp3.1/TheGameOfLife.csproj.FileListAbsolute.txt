@@ -1,0 +1,14 @@
+C:\Users\thare\source\repos\shenanigans\TheGameOfLife\TheGameOfLife\bin\Debug\netcoreapp3.1\TheGameOfLife.exe
+C:\Users\thare\source\repos\shenanigans\TheGameOfLife\TheGameOfLife\bin\Debug\netcoreapp3.1\TheGameOfLife.deps.json
+C:\Users\thare\source\repos\shenanigans\TheGameOfLife\TheGameOfLife\bin\Debug\netcoreapp3.1\TheGameOfLife.runtimeconfig.json
+C:\Users\thare\source\repos\shenanigans\TheGameOfLife\TheGameOfLife\bin\Debug\netcoreapp3.1\TheGameOfLife.runtimeconfig.dev.json
+C:\Users\thare\source\repos\shenanigans\TheGameOfLife\TheGameOfLife\bin\Debug\netcoreapp3.1\TheGameOfLife.dll
+C:\Users\thare\source\repos\shenanigans\TheGameOfLife\TheGameOfLife\bin\Debug\netcoreapp3.1\TheGameOfLife.pdb
+C:\Users\thare\source\repos\shenanigans\TheGameOfLife\TheGameOfLife\obj\Debug\netcoreapp3.1\TheGameOfLife.csproj.AssemblyReference.cache
+C:\Users\thare\source\repos\shenanigans\TheGameOfLife\TheGameOfLife\obj\Debug\netcoreapp3.1\TheGameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thare\source\repos\shenanigans\TheGameOfLife\TheGameOfLife\obj\Debug\netcoreapp3.1\TheGameOfLife.AssemblyInfoInputs.cache
+C:\Users\thare\source\repos\shenanigans\TheGameOfLife\TheGameOfLife\obj\Debug\netcoreapp3.1\TheGameOfLife.AssemblyInfo.cs
+C:\Users\thare\source\repos\shenanigans\TheGameOfLife\TheGameOfLife\obj\Debug\netcoreapp3.1\TheGameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\thare\source\repos\shenanigans\TheGameOfLife\TheGameOfLife\obj\Debug\netcoreapp3.1\TheGameOfLife.dll
+C:\Users\thare\source\repos\shenanigans\TheGameOfLife\TheGameOfLife\obj\Debug\netcoreapp3.1\TheGameOfLife.pdb
+C:\Users\thare\source\repos\shenanigans\TheGameOfLife\TheGameOfLife\obj\Debug\netcoreapp3.1\TheGameOfLife.genruntimeconfig.cache

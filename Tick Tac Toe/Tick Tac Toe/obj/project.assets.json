@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\bruhmas\\.nuget\\packages\\": {}
+    "C:\\Users\\thare\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruhmas\\source\\repos\\shenanigans\\Tick Tac Toe\\Tick Tac Toe\\Tick Tac Toe.csproj",
+      "projectUniqueName": "C:\\Users\\thare\\source\\repos\\shenanigans\\Tick Tac Toe\\Tick Tac Toe\\Tick Tac Toe.csproj",
       "projectName": "Tick Tac Toe",
-      "projectPath": "C:\\Users\\bruhmas\\source\\repos\\shenanigans\\Tick Tac Toe\\Tick Tac Toe\\Tick Tac Toe.csproj",
-      "packagesPath": "C:\\Users\\bruhmas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruhmas\\source\\repos\\shenanigans\\Tick Tac Toe\\Tick Tac Toe\\obj\\",
+      "projectPath": "C:\\Users\\thare\\source\\repos\\shenanigans\\Tick Tac Toe\\Tick Tac Toe\\Tick Tac Toe.csproj",
+      "packagesPath": "C:\\Users\\thare\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\thare\\source\\repos\\shenanigans\\Tick Tac Toe\\Tick Tac Toe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bruhmas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\thare\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

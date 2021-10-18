@@ -14,3 +14,19 @@ C:\Users\bruhmas\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\ne
 C:\Users\bruhmas\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick Tac Toe.dll
 C:\Users\bruhmas\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick Tac Toe.pdb
 C:\Users\bruhmas\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick Tac Toe.genruntimeconfig.cache
+C:\Users\thare\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\bin\Debug\netcoreapp3.1\Tick Tac Toe.exe
+C:\Users\thare\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\bin\Debug\netcoreapp3.1\Tick Tac Toe.deps.json
+C:\Users\thare\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\bin\Debug\netcoreapp3.1\Tick Tac Toe.runtimeconfig.json
+C:\Users\thare\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\bin\Debug\netcoreapp3.1\Tick Tac Toe.runtimeconfig.dev.json
+C:\Users\thare\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\bin\Debug\netcoreapp3.1\Tick Tac Toe.dll
+C:\Users\thare\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\bin\Debug\netcoreapp3.1\Tick Tac Toe.pdb
+C:\Users\thare\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick Tac Toe.csproj.AssemblyReference.cache
+C:\Users\thare\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick_Tac_Toe.Form1.resources
+C:\Users\thare\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick Tac Toe.csproj.GenerateResource.cache
+C:\Users\thare\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thare\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick Tac Toe.AssemblyInfoInputs.cache
+C:\Users\thare\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick Tac Toe.AssemblyInfo.cs
+C:\Users\thare\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\thare\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick Tac Toe.dll
+C:\Users\thare\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick Tac Toe.pdb
+C:\Users\thare\source\repos\shenanigans\Tick Tac Toe\Tick Tac Toe\obj\Debug\netcoreapp3.1\Tick Tac Toe.genruntimeconfig.cache
